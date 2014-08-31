@@ -1,0 +1,18 @@
+{
+    "name": "air-php/application",
+    "type": "library",
+    "description": "An abstract web application.",
+    "require": {
+        "php": ">=5.4.0",
+        "phpunit/phpunit": "4.1.*",
+		"container-interop/container-interop": "~1.0",
+		"air-php/http": "dev-master",
+		"air-php/routing": "dev-master",
+		"air-php/dispatcher": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Air\\Application\\": "src/"
+        }
+    }
+}
