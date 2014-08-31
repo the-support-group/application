@@ -1,4 +1,6 @@
 # Application
+[![Build Status](https://scrutinizer-ci.com/g/air-php/application/badges/build.png?b=master)](https://scrutinizer-ci.com/g/air-php/application/build-status/master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/air-php/application/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/air-php/application/?branch=master)
+
 The application library includes abstract classes representing a web application.
 
 ## Installation
