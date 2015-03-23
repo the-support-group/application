@@ -6,9 +6,9 @@
         "php": ">=5.4.0",
         "phpunit/phpunit": "4.1.*",
 		"container-interop/container-interop": "~1.0",
-		"air-php/http": "dev-master",
-		"air-php/routing": "dev-master",
-		"air-php/dispatcher": "dev-master"
+		"air-php/http": "~0.1",
+		"air-php/routing": "~0.1",
+		"air-php/dispatcher": "~0.1"
     },
     "autoload": {
         "psr-4": {
