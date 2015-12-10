@@ -1,6 +1,5 @@
 {
     "name": "air-php/application",
-    "version": "0.1",
     "type": "library",
     "description": "An abstract web application.",
     "require": {
