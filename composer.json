@@ -1,11 +1,10 @@
 {
     "name": "air-php/application",
-    "version": "0.1",
     "type": "library",
     "description": "An abstract web application.",
     "require": {
         "php": ">=5.4.0",
-        "phpunit/phpunit": "~4.1",
+        "phpunit/phpunit": "~5.0",
 	"container-interop/container-interop": "~1.0",
 	"air-php/http": "~0.1",
 	"air-php/routing": "~0.1",
